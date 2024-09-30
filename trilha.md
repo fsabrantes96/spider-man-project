@@ -86,3 +86,9 @@
 - [x] Deixar bg fixo e colocar um degradeno final da section hero
 - [x] Inserir Favicon
 - [x] Inserir imagem de compartilhamento
+
+# Aula 04 - Aplicando técnicas mobile
+
+- [x] Adataptação para laptops
+- [x] Adataptação para tablets
+- [x] Adataptação para celulares
